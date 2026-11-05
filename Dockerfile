@@ -1,3 +1,3 @@
-FROM ghcr.io/viren070/posters-plus:latest
+FROM postersplus/postersplus:latest
 ENV PORT=8080
 EXPOSE 8080
